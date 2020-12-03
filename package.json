@@ -1,0 +1,31 @@
+{
+  "name": "react-to-do-with-hooks",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "react": "16.7.0-alpha.0 - next",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "16.7.0-alpha.0 - next",
+    "react-paginate": "^6.5.0",
+    "react-scripts": "2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "description": "No class components in this to-do!"
+}

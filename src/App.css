@@ -1,0 +1,49 @@
+.app {
+  padding: 30px;
+  height: 100vh;
+}
+
+.photoList {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.todo-list {
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.card-item {
+  padding: 10px;
+  text-align: center;
+  height: 380px;
+}
+
+.url-id {
+  font-size: 10px;
+}
+
+.todo {
+  background: #fff;
+  box-shadow: 1px soild rgba(0, 0, 0, 0.15);
+  padding: 3px 10px;
+  font-size: 12px;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pagination-style {
+  justify-items: center;
+  width: 500px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pagination-style li {
+  list-style: none;
+  display: inline-block;
+}
